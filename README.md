@@ -15,7 +15,7 @@ Recently, many salient object detection (SOD) methods decouple image features in
 
 ## Clone repository
 ```shell
-git clone #github链接
+git clone https://github.com/QianWeiZhou/PCRNet.git
 cd PCRNet/
 ```
 
