@@ -52,7 +52,8 @@ Download the following datasets and unzip them into `data` folder
 ```
 
 ## Saliency maps & Trained model
-- saliency maps: #谷歌/百度网盘
+- saliency maps: https://pan.baidu.com/s/1Pyu7JPEga5FndpPXNXn2ug?pwd=fgxn code：fgxn 
+
 
 ## Citation
 - If you find this work is helpful, please cite our paper
